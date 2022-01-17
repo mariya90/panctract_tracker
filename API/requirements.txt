@@ -1,0 +1,6 @@
+django==2.2
+django-cors-headers
+requests
+cryptography
+PyJWT
+python-postmark
